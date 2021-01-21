@@ -1,0 +1,4 @@
+The distance between S (0.00,0.00,0.00) and T (6.25,5.75,3.10) is  9.0407410
+The direction cosine of ST along X axis is 0.691315
+The direction cosine of ST along Y axis is 0.636010
+The direction cosine of ST along Z axis is 0.342892

@@ -1,0 +1,9 @@
+For epsilon = 0.00
+ The orbit is closest to Earth at distance 1200.0000 km, at theta = 359
+ The orbit is farthest from Earth at distance 1200.0000 km, at theta = 359
+For epsilon = 0.25
+ The orbit is closest to Earth at distance  960.0000 km, at theta = 180
+ The orbit is farthest from Earth at distance 1600.0000 km, at theta =   0
+For epsilon = 0.50
+ The orbit is closest to Earth at distance  800.0000 km, at theta = 180
+ The orbit is farthest from Earth at distance 2400.0000 km, at theta =   0

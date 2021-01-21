@@ -1,0 +1,3 @@
+ Sum of series up to   20  terms is  0.797296166
+ Sum of series up to   50  terms is  0.790299535
+ Sum of series up to  100  terms is  0.787873268
