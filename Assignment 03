@@ -5,11 +5,3 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/JinalShah1809/PHN-103.git
 git push -u origin main
-
-echo "# PHN-103" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/JinalShah1809/PHN-103.git
-git push -u origin main
